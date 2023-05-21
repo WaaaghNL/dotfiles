@@ -8,6 +8,7 @@ cd dotfiles
 ```
 ### Run install
 ```
+chmod +x ./install.sh
 ./install.sh
 ```
 
@@ -20,6 +21,7 @@ cd ~/dotfiles
 
 ### Run uninstaller
 ```
+chmod +x ./uninstall.sh
 ./uninstall.sh
 ```
 
